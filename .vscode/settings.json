@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "*.html.ejs": "html",
+    "*.txt.ejs": "txt"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    ".jest": true
+  },
+  "files.exclude": {
+    "**/dist": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}

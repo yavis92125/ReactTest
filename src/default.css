@@ -1,0 +1,99 @@
+.text-line {
+     margin: 0 20px 15px 20px;
+ }
+
+.w-90p {
+    width: 90%;
+}
+
+.w-10p {
+    width: 10%;
+}
+
+.text-check {
+    color: #46ff9c;
+    font-size: 15px;
+}
+
+.croptomize-text-700 {
+    color: #d4d4d4;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 3rem
+}
+
+.croptomize-text-500 {
+    color: #d4d4d4;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 1.75rem;
+}
+
+.slider-panel {
+    background-color: #ffffff;
+    min-height: 80px;
+    border-radius: 3px;
+    margin: -40px 40px 0 40px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
+.pillow-lg-btn {
+    width: 90%;
+    border-radius: 25px;
+    font-size: 1rem;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.bg-main {
+    background-color: #1c3857;
+    min-height: 250px;
+    border-radius: 0 0 20px 20px;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.dollar-mark {
+    font-size: 40px;
+    color: #ffbb14;
+}
+
+.dollar-font {
+    font-size: 2.7rem;
+    color: #d4d4d4;
+}
+
+.app-header-left {
+    display: flex;
+    align-items: center;
+}
+
+.app-header-right {
+    align-items: center;
+    display: flex;
+    margin-left: auto;
+}
+
+.menu-font {
+    font-size: 18px !important;
+    font-weight: 500;
+    font-family: inherit
+}
+
+.rounded-circle {
+    border-radius: 50% !important;
+}
+
+.mr-300 {
+    margin-right: 300px !important;
+}
+
+.mr-500 {
+    margin-right: 500px !important;
+}
+
+.app-bar {
+    background-color: #0e1c2b !important;
+    box-shadow: 0 0 4px rgba(0, 0, 0, .5);
+}
+.mt-30 {
+    margin-top: 30px !important;
+}
