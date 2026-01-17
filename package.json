@@ -57,7 +57,7 @@
     "@storybook/addon-knobs": "^5.3.6",
     "@storybook/addon-links": "^5.3.13",
     "@storybook/addons": "^5.3.13",
-    "@storybook/cli": "^5.3.13",
+    "@storybook/cli": "^10.1.11",
     "@storybook/core": "^5.3.13",
     "@storybook/preset-create-react-app": "^1.5.2",
     "@storybook/react": "^5.3.13",
